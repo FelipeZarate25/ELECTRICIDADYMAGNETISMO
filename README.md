@@ -1,0 +1,2 @@
+# ELECTRICIDADYMAGNETISMO
+Repositorio para la clase de ELECTRICIDAD Y MAGNETISMO semestre 2023-1
